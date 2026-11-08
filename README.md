@@ -1,4 +1,4 @@
-# XLR8 exhaust enclosure — review package
+# exhaust enclosure — review package
 
 **Status: discussion concept, 8 November 2026. Not a fabrication or validated acoustic/airflow design.**
 
