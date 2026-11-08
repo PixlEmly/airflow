@@ -1,0 +1,126 @@
+{
+  "registration": {
+    "old_to_new": [
+      [
+        0.9998438132503684,
+        0.017669815080727916,
+        0.0003560055789506734,
+        -0.8943349772655346
+      ],
+      [
+        -0.017670179734780012,
+        0.9998433203198922,
+        0.0010485989841777317,
+        0.3304760927733001
+      ],
+      [
+        -0.000337421249966033,
+        -0.00105472588947742,
+        0.9999993868499107,
+        0.18799365255875033
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "overlap_median_distance_m": 0.021681168116629124,
+    "inliers_under_80mm": 4940,
+    "note": "Rigid ICP on common wall, soffit and hood only; scale unchanged."
+  },
+  "tree_cross_sections": [
+    {
+      "height_above_datum_m": 0.25,
+      "scan_x_extent_m": 1.4073379039764404,
+      "along_wall_extent_m": 1.0836684703826904,
+      "points": 1757
+    },
+    {
+      "height_above_datum_m": 0.3500000000000001,
+      "scan_x_extent_m": 1.158539056777954,
+      "along_wall_extent_m": 1.0126537084579468,
+      "points": 1125
+    },
+    {
+      "height_above_datum_m": 0.5,
+      "scan_x_extent_m": 0.9831629991531372,
+      "along_wall_extent_m": 0.8107443451881409,
+      "points": 670
+    },
+    {
+      "height_above_datum_m": 0.7000000000000001,
+      "scan_x_extent_m": 0.8323298692703247,
+      "along_wall_extent_m": 0.7692592740058899,
+      "points": 446
+    },
+    {
+      "height_above_datum_m": 0.9500000000000001,
+      "scan_x_extent_m": 0.7238906621932983,
+      "along_wall_extent_m": 0.6649433374404907,
+      "points": 383
+    },
+    {
+      "height_above_datum_m": 1.2000000000000002,
+      "scan_x_extent_m": 0.7035007476806641,
+      "along_wall_extent_m": 0.6188876628875732,
+      "points": 333
+    },
+    {
+      "height_above_datum_m": 1.45,
+      "scan_x_extent_m": 0.6731816530227661,
+      "along_wall_extent_m": 0.5991225242614746,
+      "points": 340
+    },
+    {
+      "height_above_datum_m": 1.7,
+      "scan_x_extent_m": 0.6564165353775024,
+      "along_wall_extent_m": 0.599443256855011,
+      "points": 345
+    },
+    {
+      "height_above_datum_m": 1.9500000000000002,
+      "scan_x_extent_m": 0.6311057209968567,
+      "along_wall_extent_m": 0.5853965282440186,
+      "points": 294
+    },
+    {
+      "height_above_datum_m": 2.2,
+      "scan_x_extent_m": 0.6384042501449585,
+      "along_wall_extent_m": 0.594626247882843,
+      "points": 259
+    },
+    {
+      "height_above_datum_m": 2.45,
+      "scan_x_extent_m": 0.626418948173523,
+      "along_wall_extent_m": 0.575361967086792,
+      "points": 285
+    },
+    {
+      "height_above_datum_m": 2.7,
+      "scan_x_extent_m": 0.5778020620346069,
+      "along_wall_extent_m": 0.5619388222694397,
+      "points": 281
+    },
+    {
+      "height_above_datum_m": 2.95,
+      "scan_x_extent_m": 0.556160032749176,
+      "along_wall_extent_m": 0.5325195789337158,
+      "points": 302
+    }
+  ],
+  "tree_envelope_vertices_in_proposed_box": 8,
+  "overlap_bounds_m": [
+    [
+      0.6998639669600113,
+      0.5568155038017909,
+      0.3500000000000001
+    ],
+    [
+      0.9484110462985312,
+      0.6546913680257953,
+      0.5
+    ]
+  ]
+}

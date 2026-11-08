@@ -1,0 +1,6 @@
+# Preserve exact bytes so package hashes survive checkout on every platform.
+* -text
+*.blend binary
+*.glb binary
+*.png binary
+*.jpg binary

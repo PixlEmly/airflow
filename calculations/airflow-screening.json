@@ -1,0 +1,71 @@
+{
+  "basis": "9900 CFM conservative user allowance; standard-density pressure scaling; no fan data",
+  "geometry_source": "Current Blender finished faces, 2026-11-08; update constants if model changes",
+  "flow_cfm": 9900,
+  "clear_width_inches": 92.88189078740157,
+  "clear_depth_inches": 17.714684448818897,
+  "gap_inches": 8.857342224409448,
+  "area_sqft": 5.713102035793326,
+  "previous_area_sqft": 6.495022697155968,
+  "velocity_fpm": 1732.8589508773368,
+  "velocity_pressure_in_water": 0.18720669971746956,
+  "area_reduction_percent": 12.03876718868171,
+  "velocity_increase_percent": 13.686446635537198,
+  "velocity_pressure_increase_percent": 29.24608148614847,
+  "hypothetical_K_sensitivity_NOT_prediction": [
+    {
+      "K": 1,
+      "loss_in_water": 0.18720669971746956
+    },
+    {
+      "K": 3,
+      "loss_in_water": 0.5616200991524087
+    },
+    {
+      "K": 5,
+      "loss_in_water": 0.9360334985873477
+    }
+  ],
+  "options": [
+    {
+      "option": 1,
+      "base_inches": 30,
+      "projection_inches": 25.590551181102363,
+      "lined_tip_gap_inches": 11.401574803149607,
+      "vertical_gap_upper_bound_inches": 3.5826771653543297,
+      "note": "Upper bound leaves zero hood approach clearance. Exterior-only alternatives are not internally designed."
+    },
+    {
+      "option": 2,
+      "base_inches": 36,
+      "projection_inches": 25.590551181102363,
+      "lined_tip_gap_inches": 11.401574803149607,
+      "vertical_gap_upper_bound_inches": 0.5826771653543299,
+      "note": "Upper bound leaves zero hood approach clearance. Exterior-only alternatives are not internally designed."
+    },
+    {
+      "option": 3,
+      "base_inches": 24,
+      "projection_inches": 22.590551181102366,
+      "lined_tip_gap_inches": 9.947728649303455,
+      "vertical_gap_upper_bound_inches": 6.5826771653543314,
+      "note": "Upper bound leaves zero hood approach clearance. Exterior-only alternatives are not internally designed."
+    },
+    {
+      "option": 4,
+      "base_inches": 12,
+      "projection_inches": 20.340551181102366,
+      "lined_tip_gap_inches": 8.857344033918839,
+      "vertical_gap_upper_bound_inches": 12.582677165354331,
+      "note": "Upper bound leaves zero hood approach clearance. Exterior-only alternatives are not internally designed."
+    },
+    {
+      "option": 5,
+      "base_inches": 12,
+      "projection_inches": 18.340551181102363,
+      "lined_tip_gap_inches": 7.888113264688069,
+      "vertical_gap_upper_bound_inches": 12.582677165354331,
+      "note": "Upper bound leaves zero hood approach clearance. Exterior-only alternatives are not internally designed."
+    }
+  ]
+}

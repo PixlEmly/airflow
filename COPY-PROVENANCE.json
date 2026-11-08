@@ -1,0 +1,370 @@
+{
+  "copies": [
+    {
+      "path": "models/XLR8-all-options-toggle.blend",
+      "source": "clearance-options\\XLR8-all-options-toggle.blend",
+      "bytes": 15961086
+    },
+    {
+      "path": "references/scans/obj/11_2_2026.mtl",
+      "source": "obj\\11_2_2026.mtl",
+      "bytes": 85
+    },
+    {
+      "path": "references/scans/obj/11_2_2026.obj",
+      "source": "obj\\11_2_2026.obj",
+      "bytes": 20198927
+    },
+    {
+      "path": "references/scans/obj/textures/bf2c867dba0097cbf0a30da9399f47c4.jpg",
+      "source": "obj\\textures\\bf2c867dba0097cbf0a30da9399f47c4.jpg",
+      "bytes": 3203747
+    },
+    {
+      "path": "references/scans/new-scan/11_7_2026.mtl",
+      "source": "new-scan\\11_7_2026.mtl",
+      "bytes": 174
+    },
+    {
+      "path": "references/scans/new-scan/11_7_2026.obj",
+      "source": "new-scan\\11_7_2026.obj",
+      "bytes": 3360481
+    },
+    {
+      "path": "references/scans/new-scan/textures/1252f22cf8386c9dcd68aa29e467c0de.jpg",
+      "source": "new-scan\\textures\\1252f22cf8386c9dcd68aa29e467c0de.jpg",
+      "bytes": 240089
+    },
+    {
+      "path": "references/scans/new-scan/textures/f723a9e9bcb00fe0e710a390039e13eb.jpg",
+      "source": "new-scan\\textures\\f723a9e9bcb00fe0e710a390039e13eb.jpg",
+      "bytes": 2711447
+    },
+    {
+      "path": "references/scans/roof-study/full/11_7_2026.mtl",
+      "source": "roof-study\\full\\11_7_2026.mtl",
+      "bytes": 85
+    },
+    {
+      "path": "references/scans/roof-study/full/11_7_2026.obj",
+      "source": "roof-study\\full\\11_7_2026.obj",
+      "bytes": 271325
+    },
+    {
+      "path": "references/scans/roof-study/full/textures/f8c625982296f080952216bae34995f0.jpg",
+      "source": "roof-study\\full\\textures\\f8c625982296f080952216bae34995f0.jpg",
+      "bytes": 143765
+    },
+    {
+      "path": "references/scans/roof-fragments/out.obj",
+      "source": "User-provided attachment or Desktop roof fragment",
+      "bytes": 81636
+    },
+    {
+      "path": "references/scans/roof-fragments/out2.obj",
+      "source": "User-provided attachment or Desktop roof fragment",
+      "bytes": 123431
+    },
+    {
+      "path": "references/measurements/registration.json",
+      "source": "merged-tree\\registration.json",
+      "bytes": 637
+    },
+    {
+      "path": "references/measurements/tree-envelope.json",
+      "source": "merged-tree\\tree-envelope.json",
+      "bytes": 132803
+    },
+    {
+      "path": "references/measurements/historical-v4-tree-measurements.json",
+      "source": "revision-4\\tree-measurements.json",
+      "bytes": 3266
+    },
+    {
+      "path": "references/measurements/roof-average.json",
+      "source": "roof-study\\roof-average.json",
+      "bytes": 483
+    },
+    {
+      "path": "references/measurements/wall-fit.json",
+      "source": "wall_fit.json",
+      "bytes": 87
+    },
+    {
+      "path": "references/scans/aligned-scans.blend",
+      "source": "merged-tree\\aligned-scans.blend",
+      "bytes": 9201774
+    },
+    {
+      "path": "drawings/option-4-lined-baffles-cutaway.png",
+      "source": "clearance-options\\option-4-lined-baffles-cutaway.png",
+      "bytes": 2587915
+    },
+    {
+      "path": "drawings/option-4-default.png",
+      "source": "clearance-options\\option-4-default.png",
+      "bytes": 2327979
+    },
+    {
+      "path": "drawings/roof-curb-detail.png",
+      "source": "clearance-options\\roof-curb-detail.png",
+      "bytes": 2518489
+    },
+    {
+      "path": "history/option-1.png",
+      "source": "clearance-options\\option-1.png",
+      "bytes": 2265543
+    },
+    {
+      "path": "history/option-2.png",
+      "source": "clearance-options\\option-2.png",
+      "bytes": 2266518
+    },
+    {
+      "path": "history/option-3.png",
+      "source": "clearance-options\\option-3.png",
+      "bytes": 2265632
+    },
+    {
+      "path": "history/option-4.png",
+      "source": "clearance-options\\option-4.png",
+      "bytes": 2262320
+    },
+    {
+      "path": "history/option-5.png",
+      "source": "clearance-options\\option-5.png",
+      "bytes": 2261341
+    },
+    {
+      "path": "history/option-6-width-only.png",
+      "source": "clearance-options\\option-6-width-only.png",
+      "bytes": 2200429
+    },
+    {
+      "path": "history/option-7-width-only.png",
+      "source": "clearance-options\\option-7-width-only.png",
+      "bytes": 2200303
+    },
+    {
+      "path": "history/option-8-width-only.png",
+      "source": "clearance-options\\option-8-width-only.png",
+      "bytes": 2200308
+    },
+    {
+      "path": "history/option-4-airflow-check.md",
+      "source": "clearance-options\\option-4-airflow-check.md",
+      "bytes": 2827
+    },
+    {
+      "path": "history/option-4-airflow-check.json",
+      "source": "clearance-options\\option-4-airflow-check.json",
+      "bytes": 683
+    },
+    {
+      "path": "history/option-4-baffles-cutaway.png",
+      "source": "clearance-options\\option-4-baffles-cutaway.png",
+      "bytes": 2586819
+    },
+    {
+      "path": "calculations/option-4-one-inch-lining.txt",
+      "source": "clearance-options\\option-4-one-inch-lining.txt",
+      "bytes": 2027
+    },
+    {
+      "path": "references/scan-views/aligned-angle.png",
+      "source": "merged-tree\\aligned-angle.png",
+      "bytes": 2550021
+    },
+    {
+      "path": "references/scan-views/aligned-front.png",
+      "source": "merged-tree\\aligned-front.png",
+      "bytes": 2490829
+    },
+    {
+      "path": "references/scan-views/aligned-top.png",
+      "source": "merged-tree\\aligned-top.png",
+      "bytes": 2447049
+    },
+    {
+      "path": "references/scan-views/new-scan-wall-detail.png",
+      "source": "new-scan\\wall_detail.png",
+      "bytes": 2928037
+    },
+    {
+      "path": "references/scan-views/roof-detail.png",
+      "source": "roof-study\\full\\detail.png",
+      "bytes": 1341986
+    },
+    {
+      "path": "references/user-drawings/user-section-sketch.jpg",
+      "source": "User-provided attachment or Desktop roof fragment",
+      "bytes": 1480586
+    },
+    {
+      "path": "references/user-drawings/user-building-sketch.jpg",
+      "source": "User-provided attachment or Desktop roof fragment",
+      "bytes": 1713989
+    },
+    {
+      "path": "references/user-drawings/silencer-dimension-diagram.png",
+      "source": "User-provided attachment or Desktop roof fragment",
+      "bytes": 60094
+    },
+    {
+      "path": "references/user-drawings/silencer-dimension-row.png",
+      "source": "User-provided attachment or Desktop roof fragment",
+      "bytes": 3155
+    },
+    {
+      "path": "references/user-drawings/short-radius-elbow-reference.png",
+      "source": "User-provided attachment or Desktop roof fragment",
+      "bytes": 174208
+    },
+    {
+      "path": "history/scripts/add_option4_baffles.py",
+      "source": "add_option4_baffles.py",
+      "bytes": 7660
+    },
+    {
+      "path": "history/scripts/add_roof_curb.py",
+      "source": "add_roof_curb.py",
+      "bytes": 3670
+    },
+    {
+      "path": "history/scripts/add_roof_silencer.py",
+      "source": "add_roof_silencer.py",
+      "bytes": 9089
+    },
+    {
+      "path": "history/scripts/add_width_options.py",
+      "source": "add_width_options.py",
+      "bytes": 2869
+    },
+    {
+      "path": "history/scripts/analyze_scan.py",
+      "source": "analyze_scan.py",
+      "bytes": 1110
+    },
+    {
+      "path": "history/scripts/apply_averaged_roof.py",
+      "source": "apply_averaged_roof.py",
+      "bytes": 2874
+    },
+    {
+      "path": "history/scripts/build_concept.py",
+      "source": "build_concept.py",
+      "bytes": 11423
+    },
+    {
+      "path": "history/scripts/build_revision2.py",
+      "source": "build_revision2.py",
+      "bytes": 3440
+    },
+    {
+      "path": "history/scripts/build_revision3.py",
+      "source": "build_revision3.py",
+      "bytes": 1110
+    },
+    {
+      "path": "history/scripts/close_silencer_curb.py",
+      "source": "close_silencer_curb.py",
+      "bytes": 3157
+    },
+    {
+      "path": "history/scripts/combine_options.py",
+      "source": "combine_options.py",
+      "bytes": 4183
+    },
+    {
+      "path": "history/scripts/detail_new.py",
+      "source": "detail_new.py",
+      "bytes": 1005
+    },
+    {
+      "path": "history/scripts/extract_tree.py",
+      "source": "extract_tree.py",
+      "bytes": 2587
+    },
+    {
+      "path": "history/scripts/fit_roof_average.py",
+      "source": "fit_roof_average.py",
+      "bytes": 1246
+    },
+    {
+      "path": "history/scripts/inspect_full_roof.py",
+      "source": "inspect_full_roof.py",
+      "bytes": 386
+    },
+    {
+      "path": "history/scripts/inspect_new.py",
+      "source": "inspect_new.py",
+      "bytes": 325
+    },
+    {
+      "path": "history/scripts/inspect_option4.py",
+      "source": "inspect_option4.py",
+      "bytes": 480
+    },
+    {
+      "path": "history/scripts/inspect_out2.py",
+      "source": "inspect_out2.py",
+      "bytes": 379
+    },
+    {
+      "path": "history/scripts/inspect_roof.py",
+      "source": "inspect_roof.py",
+      "bytes": 1318
+    },
+    {
+      "path": "history/scripts/inspect_scan.py",
+      "source": "inspect_scan.py",
+      "bytes": 1330
+    },
+    {
+      "path": "history/scripts/line_option4.py",
+      "source": "line_option4.py",
+      "bytes": 7816
+    },
+    {
+      "path": "history/scripts/lower_silencer.py",
+      "source": "lower_silencer.py",
+      "bytes": 5197
+    },
+    {
+      "path": "history/scripts/measure_new.py",
+      "source": "measure_new.py",
+      "bytes": 1042
+    },
+    {
+      "path": "history/scripts/measure_scan.py",
+      "source": "measure_scan.py",
+      "bytes": 516
+    },
+    {
+      "path": "history/scripts/merge_tree.py",
+      "source": "merge_tree.py",
+      "bytes": 3919
+    },
+    {
+      "path": "history/scripts/render_options.py",
+      "source": "render_options.py",
+      "bytes": 3046
+    },
+    {
+      "path": "history/scripts/roof_detail.py",
+      "source": "roof_detail.py",
+      "bytes": 1109
+    },
+    {
+      "path": "history/scripts/short_radius_bends.py",
+      "source": "short_radius_bends.py",
+      "bytes": 5821
+    },
+    {
+      "path": "history/scripts/update_merged_tree_model.py",
+      "source": "update_merged_tree_model.py",
+      "bytes": 5164
+    }
+  ],
+  "missing_inputs": []
+}

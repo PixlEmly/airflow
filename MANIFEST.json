@@ -1,0 +1,465 @@
+{
+  "snapshot_date": "2026-11-08",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 139,
+      "sha256": "34a09529ddfc781944389018796ea3303118164c46d65d8b9dbd34187665e33f"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 129,
+      "sha256": "a473eb17f32e936427de2d7f2924dabd8044c27f398090074dc8fd8e1fe54aee"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 3463,
+      "sha256": "6f1cb51e828c22d15cf44efe37bbf1ad9e652592d8171bdb454cd97a271e85fa"
+    },
+    {
+      "path": "calculations/airflow-screening.json",
+      "bytes": 2697,
+      "sha256": "1a90b891b4c2846b226098c16ac43a32fc1b2bafa3ffd71e1c0ab2ed8362d452"
+    },
+    {
+      "path": "calculations/option-4-one-inch-lining.txt",
+      "bytes": 2027,
+      "sha256": "1a1d7b2a35ea0784837b45cd37e18f51a5312c62216b4842a4cbf4ff39a09660"
+    },
+    {
+      "path": "COPY-PROVENANCE.json",
+      "bytes": 10608,
+      "sha256": "9d0fc0d191a9c538f2bac4307ebf6905388c7fcf7a9f9a8ced263f2078beb342"
+    },
+    {
+      "path": "docs/AIRFLOW-AND-ACOUSTICS.md",
+      "bytes": 4388,
+      "sha256": "994d75d7a22558bb2e54608d6b0734fcb4fe5f513e95ad02624f7bb66e540dba"
+    },
+    {
+      "path": "docs/CHAT-HANDOFF.md",
+      "bytes": 6153,
+      "sha256": "0d453116f49ebdf018fd2ee5bfa943f7d12ca93deda9e230b9794d38a304b214"
+    },
+    {
+      "path": "docs/DESIGN-BRIEF.md",
+      "bytes": 4895,
+      "sha256": "965af5368a0bec8d385e6a69425b3116826b52948b17cafd42562a0ff8dd8118"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "bytes": 2158,
+      "sha256": "72b0332f6374195d1d674d117164403cc8989c5ae7851fc9ea82122e14914adf"
+    },
+    {
+      "path": "docs/REVIEW-PLAN.md",
+      "bytes": 2097,
+      "sha256": "d320084daefc0bfa1f70f6e399d8240ac9f34c973cceb2d63b24adde296a4837"
+    },
+    {
+      "path": "drawings/current-exterior.png",
+      "bytes": 2327976,
+      "sha256": "068beb52747c2010895aaa19ab146509dbe0c1d1dbda07cc3e003143393bb29c"
+    },
+    {
+      "path": "drawings/option-4-default.png",
+      "bytes": 2327979,
+      "sha256": "588150756f16b13c7372a6e3c27b929f4e38177473257d428aa46ef309a3f0c2"
+    },
+    {
+      "path": "drawings/option-4-lined-baffles-cutaway.png",
+      "bytes": 2587915,
+      "sha256": "a2f6fd857a1f883232af03fa1b709df27304ffbb57252986bd5229141177bc5e"
+    },
+    {
+      "path": "drawings/option-4-section.svg",
+      "bytes": 2641,
+      "sha256": "19ff21dfe27c315796e8be1dc3824cb00a1d2e86f0a617ba743a288b850bbc9e"
+    },
+    {
+      "path": "drawings/roof-curb-detail.png",
+      "bytes": 2518489,
+      "sha256": "821cdcc26965d52dd1eb6f844495f0ea6a96b6657cbc42ce9f4971da2c15909e"
+    },
+    {
+      "path": "history/option-1.png",
+      "bytes": 2265543,
+      "sha256": "3f6ad5e3f1ee5c4b9a4b17588074053438832d37b070dc81aad0c157c4fd8027"
+    },
+    {
+      "path": "history/option-2.png",
+      "bytes": 2266518,
+      "sha256": "96a6e4fc14872fbca5bc68b6554844db590e68b693a84a761f81eddc061d8625"
+    },
+    {
+      "path": "history/option-3.png",
+      "bytes": 2265632,
+      "sha256": "67863d65f1bce5236f08a6d6ca68eebc1bf914870abd0775a5354af20144f9d5"
+    },
+    {
+      "path": "history/option-4-airflow-check.json",
+      "bytes": 683,
+      "sha256": "afb0ffb9aaffbd6968b8db46f77dec8adbc5e12b987ae11205a00691e66cb710"
+    },
+    {
+      "path": "history/option-4-airflow-check.md",
+      "bytes": 2827,
+      "sha256": "5327c6066f7951d4f9e0ff7250ae47257fe6156c45ebdd3ef761b09ec89e0f5e"
+    },
+    {
+      "path": "history/option-4-baffles-cutaway.png",
+      "bytes": 2586819,
+      "sha256": "f6112cdb0b16b90846870eb949e991da6d07c9d15c141b722b1ebb7ae9f21a59"
+    },
+    {
+      "path": "history/option-4.png",
+      "bytes": 2262320,
+      "sha256": "01a8989fba2e60b76279108c53201575f32239e4151ea1555b86fe9f0bfbf62c"
+    },
+    {
+      "path": "history/option-5.png",
+      "bytes": 2261341,
+      "sha256": "01fcef013afcf8d478830f9799d2869dee7ec22dbcca76c227be0f1bf5f761ad"
+    },
+    {
+      "path": "history/option-6-width-only.png",
+      "bytes": 2200429,
+      "sha256": "b366d552a46e57d0c46dfa8b685eb7eca953df9247fa06285d84548c23b7fb3a"
+    },
+    {
+      "path": "history/option-7-width-only.png",
+      "bytes": 2200303,
+      "sha256": "707f48998147ef3e861e4882cba70997e2a1aacfd3370efec0857fe4f2cb2a3a"
+    },
+    {
+      "path": "history/option-8-width-only.png",
+      "bytes": 2200308,
+      "sha256": "2f5c648b48161ed8f1b0ba2c97ab79c561a67946e3a056aca590dc7232cd2f6b"
+    },
+    {
+      "path": "history/README.md",
+      "bytes": 681,
+      "sha256": "dab9ba118d4561bb4cdef4964f8b0e3dfb0d8539e095daf98b5592eef3037857"
+    },
+    {
+      "path": "history/scripts/add_option4_baffles.py",
+      "bytes": 7660,
+      "sha256": "9e225290b7ba91cbef218f55b9f90d48b4d687fee6ccf9cb2d0e6b707e6b1613"
+    },
+    {
+      "path": "history/scripts/add_roof_curb.py",
+      "bytes": 3670,
+      "sha256": "518691fb9fe483a15483f495ff16785caa976ff6ec87485e1a81109fa0c7e799"
+    },
+    {
+      "path": "history/scripts/add_roof_silencer.py",
+      "bytes": 9089,
+      "sha256": "51a21a0545b70c138564cdef12a99dfe3a5478025ae12734dbf61efcbd16195e"
+    },
+    {
+      "path": "history/scripts/add_width_options.py",
+      "bytes": 2869,
+      "sha256": "61306e8021840a0bbe44363cfa2146ca0f0015d089e8ec9ed6cf97e2149823b2"
+    },
+    {
+      "path": "history/scripts/analyze_scan.py",
+      "bytes": 1110,
+      "sha256": "76632704d02122d3aaa0fbdbc25d2a0a59144ee7f44fa7fe2cb7fca72ea3da03"
+    },
+    {
+      "path": "history/scripts/apply_averaged_roof.py",
+      "bytes": 2874,
+      "sha256": "821160bce60e2a82bef88d54a12a47e6aaca013ff8d2bae1c402a3debf76c43a"
+    },
+    {
+      "path": "history/scripts/build_concept.py",
+      "bytes": 11423,
+      "sha256": "af6138700a62ae8aa1721160a5bc06c6f21fc1db66beaecdd1ea8186b0d61950"
+    },
+    {
+      "path": "history/scripts/build_revision2.py",
+      "bytes": 3440,
+      "sha256": "64d2dadddcab6c9c2fe1d424be8ac2c3cf1567e2b77a4a9745df3be586a92ab4"
+    },
+    {
+      "path": "history/scripts/build_revision3.py",
+      "bytes": 1110,
+      "sha256": "1518e1d0db24bef856eed5cf41b2df5417bea4eb1596e5ea3f6f5d3987eb9681"
+    },
+    {
+      "path": "history/scripts/close_silencer_curb.py",
+      "bytes": 3157,
+      "sha256": "9d1fc570fa4f5c3981aa6944fc3380bfb9d351a7706bccd05fbacd5599729a2a"
+    },
+    {
+      "path": "history/scripts/combine_options.py",
+      "bytes": 4183,
+      "sha256": "705200a95e05d17d9b3e48e7edb35ff1de403f681a5eb339db6444c906c4e62a"
+    },
+    {
+      "path": "history/scripts/detail_new.py",
+      "bytes": 1005,
+      "sha256": "9ccd70ebda6ac7dd7f3957413128707e024c520057b1daf1319aee56c349c8ff"
+    },
+    {
+      "path": "history/scripts/extract_tree.py",
+      "bytes": 2587,
+      "sha256": "759761d9fad8ae6fc35fa4ecf7d0c207e82f229ea198e7a37891cb694f37187b"
+    },
+    {
+      "path": "history/scripts/fit_roof_average.py",
+      "bytes": 1246,
+      "sha256": "45891254cd51cf1fc642626ac444348b10ac138f187ba35bea164698e45a76ea"
+    },
+    {
+      "path": "history/scripts/inspect_full_roof.py",
+      "bytes": 386,
+      "sha256": "46a23c042ecd4db5a4679291e84620614a2048eafe30576c7457a04a5faa7dc9"
+    },
+    {
+      "path": "history/scripts/inspect_new.py",
+      "bytes": 325,
+      "sha256": "3b769a0337c3bb5371fe043a6e8094b314f210495a755c204bf6c58a7c71260b"
+    },
+    {
+      "path": "history/scripts/inspect_option4.py",
+      "bytes": 480,
+      "sha256": "d85b35fce38e1946257ca0e8833f9c87c3d6c88bd3f532bbad0df0cf93862683"
+    },
+    {
+      "path": "history/scripts/inspect_out2.py",
+      "bytes": 379,
+      "sha256": "b16020b6b4c797ae1b382f1b591b0134f1e2874b549873be22e1aef7736ee3cf"
+    },
+    {
+      "path": "history/scripts/inspect_roof.py",
+      "bytes": 1318,
+      "sha256": "230c9a40dcbe63f48cc54c910a771ac6ba008c0ac5d928355b6969904a636bfe"
+    },
+    {
+      "path": "history/scripts/inspect_scan.py",
+      "bytes": 1330,
+      "sha256": "2808e6ada779525d18ecb697f101d3895f765cc136dbd62d2943ab926ad94f17"
+    },
+    {
+      "path": "history/scripts/line_option4.py",
+      "bytes": 7816,
+      "sha256": "511f673a4416c63ef58a6e3bf9a06193a50ee264cff32dc4156afa006f6f59aa"
+    },
+    {
+      "path": "history/scripts/lower_silencer.py",
+      "bytes": 5197,
+      "sha256": "57fac07a17b7dbc69f6414f06e90b150f5db20ed85d77e895a0186b450af0203"
+    },
+    {
+      "path": "history/scripts/measure_new.py",
+      "bytes": 1042,
+      "sha256": "185fcbfcf864ebe33af9403a1a639633a810b11c7e75a6dcec69ae8c43c7b98a"
+    },
+    {
+      "path": "history/scripts/measure_scan.py",
+      "bytes": 516,
+      "sha256": "d046be3f7969a11a3295cc9bc5268bbe067c46db3de4c7df55b54cef80f4b3be"
+    },
+    {
+      "path": "history/scripts/merge_tree.py",
+      "bytes": 3919,
+      "sha256": "90fe588830801338851bf1a376616019b827e714b53aa40e48a97412ffd72c04"
+    },
+    {
+      "path": "history/scripts/render_options.py",
+      "bytes": 3046,
+      "sha256": "d581011171ec993651c66d493bfacecd299f13c3e80ec62b7866a13539839319"
+    },
+    {
+      "path": "history/scripts/roof_detail.py",
+      "bytes": 1109,
+      "sha256": "18d748f24aaece440f193fda459354ac97a541f565012ffedb4a16fc4d864368"
+    },
+    {
+      "path": "history/scripts/short_radius_bends.py",
+      "bytes": 5821,
+      "sha256": "683bca341c4558cf36245be1ad8c695351a6ebafbd71ccb40f458224640bfcba"
+    },
+    {
+      "path": "history/scripts/update_merged_tree_model.py",
+      "bytes": 5164,
+      "sha256": "4a1c3dec294312c818c6e73f1100ad337cf7ca2a29971cc47ef022981d667560"
+    },
+    {
+      "path": "models/model-audit.json",
+      "bytes": 3690,
+      "sha256": "de8d13747ed4c2bd7022280eba8a10e0020159113af4add9911a3a0483cc1577"
+    },
+    {
+      "path": "models/option-4-lined-review.glb",
+      "bytes": 1413780,
+      "sha256": "0dc16891254002554c4e447209c6d202ffee74038e68f94ce25da2aaa3f670ee"
+    },
+    {
+      "path": "models/XLR8-all-options-toggle.blend",
+      "bytes": 15960024,
+      "sha256": "9d066bb1d7e8510a5ea37c266269e66d6354f072a9e01166184e39dac3b64b99"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3339,
+      "sha256": "342528a9704a82bd38e13b69e276e5649758c228c0c3755051e263aae1a836b3"
+    },
+    {
+      "path": "references/measurements/historical-v4-tree-measurements.json",
+      "bytes": 3266,
+      "sha256": "90175044f4fecccb1d796f39b34b5df679bff88af92a4fcbff2f1f8fa9fcb2bb"
+    },
+    {
+      "path": "references/measurements/registration.json",
+      "bytes": 637,
+      "sha256": "072d5fdea271ad01b12d6f759b4116fd78c46f2e46ede83077463a648eb93a84"
+    },
+    {
+      "path": "references/measurements/roof-average.json",
+      "bytes": 483,
+      "sha256": "05caca900d47e1a4173f09f56f278cc24b24efbafc90785e9becac6b7e94fdfa"
+    },
+    {
+      "path": "references/measurements/tree-envelope.json",
+      "bytes": 132803,
+      "sha256": "6d2bfa27ca934a249a97adc0ad818a162216fd88779435352d53c951ff569595"
+    },
+    {
+      "path": "references/measurements/wall-fit.json",
+      "bytes": 87,
+      "sha256": "8d4b09b76ae6e1ed56a87a8ebbb05dce2bad13c42e405180e41b86433bfb7433"
+    },
+    {
+      "path": "references/scan-views/aligned-angle.png",
+      "bytes": 2550021,
+      "sha256": "c7565ec6df8fb9a16c5d0c5af6940a40b04e26c658b91a23680658d1aa8e4c77"
+    },
+    {
+      "path": "references/scan-views/aligned-front.png",
+      "bytes": 2490829,
+      "sha256": "f3532537e42b88b331ea3e2479eb54b2716ebdcbe6243aa8c49adf954522f1cf"
+    },
+    {
+      "path": "references/scan-views/aligned-top.png",
+      "bytes": 2447049,
+      "sha256": "6f6f41c760f3725b27204da66848a5c836eb2f014d766c21476228e76d7781f3"
+    },
+    {
+      "path": "references/scan-views/new-scan-wall-detail.png",
+      "bytes": 2928037,
+      "sha256": "4e5868bc143423136a479d7cdc295bc74b2c6cc0cda5ac019f548cabc126cc34"
+    },
+    {
+      "path": "references/scan-views/roof-detail.png",
+      "bytes": 1341986,
+      "sha256": "4207028eaa614f11735c425fbd3f27b8c39d675af16754e19ea777301a7fe20c"
+    },
+    {
+      "path": "references/scans/aligned-scans.blend",
+      "bytes": 9201774,
+      "sha256": "d21423d27be9cd50f143a99541a11e01be3cce24b38ef27e1a766712dbfa5e61"
+    },
+    {
+      "path": "references/scans/new-scan/11_7_2026.mtl",
+      "bytes": 174,
+      "sha256": "438a0337223974b6202118d33a742571c3a4353a1e2d4d016e493edb6c1a2a8e"
+    },
+    {
+      "path": "references/scans/new-scan/11_7_2026.obj",
+      "bytes": 3360481,
+      "sha256": "fd73537af5d3bd30139b36f9607cf197ca99820f8f9583f4d5477e0e03ccdffc"
+    },
+    {
+      "path": "references/scans/new-scan/textures/1252f22cf8386c9dcd68aa29e467c0de.jpg",
+      "bytes": 240089,
+      "sha256": "4303480bd9a0d7f7d1ea33137ac2600c4fe0ad1a436ee8fcd97207a4c408f06b"
+    },
+    {
+      "path": "references/scans/new-scan/textures/f723a9e9bcb00fe0e710a390039e13eb.jpg",
+      "bytes": 2711447,
+      "sha256": "68dc2eb31c251aa80333ee591163e1deb5dd1096d8fc83417f7e86072767364d"
+    },
+    {
+      "path": "references/scans/obj/11_2_2026.mtl",
+      "bytes": 85,
+      "sha256": "c31762afbf2f2ad92349b6cac7904306f055e70d2e3c6acff94fd841f74666de"
+    },
+    {
+      "path": "references/scans/obj/11_2_2026.obj",
+      "bytes": 20198927,
+      "sha256": "cac1966154a3daa964f84ac6a1a0817ca37fbeafc69b1835185eee2f37850ebd"
+    },
+    {
+      "path": "references/scans/obj/textures/bf2c867dba0097cbf0a30da9399f47c4.jpg",
+      "bytes": 3203747,
+      "sha256": "5aae7851edc7e1cb2824f5e8f85e30a800c4ef8bdcebcb0b0ba5219e4095df6d"
+    },
+    {
+      "path": "references/scans/roof-fragments/out.obj",
+      "bytes": 81636,
+      "sha256": "c289f1b0b31abeb996d8be42cb401cd96499795decda0bfa17ccaaafb92fd869"
+    },
+    {
+      "path": "references/scans/roof-fragments/out2.obj",
+      "bytes": 123431,
+      "sha256": "0490d69c8010469e386deb6e24117d021b37f4007962c3551c98ac4e6d5ec7e2"
+    },
+    {
+      "path": "references/scans/roof-study/full/11_7_2026.mtl",
+      "bytes": 85,
+      "sha256": "c69fb53f9e308f7ccbf171f97e39e14ec29725c1aa043434b2f0704156f7adec"
+    },
+    {
+      "path": "references/scans/roof-study/full/11_7_2026.obj",
+      "bytes": 271325,
+      "sha256": "95168cf4914139bfacb0229333f920bb99e63478ac54329694429c0e4277345c"
+    },
+    {
+      "path": "references/scans/roof-study/full/textures/f8c625982296f080952216bae34995f0.jpg",
+      "bytes": 143765,
+      "sha256": "5936ecc9c462b4735decbdd6c17d42d79a6db3a0e3b7e3ecfd5d215e4d000eab"
+    },
+    {
+      "path": "references/user-drawings/short-radius-elbow-reference.png",
+      "bytes": 174208,
+      "sha256": "e75cab9ef8ec8fe6bdad6c4d354c0e252d7476bb0dc45e32c9ba16000d3aebf5"
+    },
+    {
+      "path": "references/user-drawings/silencer-dimension-diagram.png",
+      "bytes": 60094,
+      "sha256": "04de09f0a8891814b0be818a970c5f21e515809d270939525415da260ed86728"
+    },
+    {
+      "path": "references/user-drawings/silencer-dimension-row.png",
+      "bytes": 3155,
+      "sha256": "97e6513f17d0c43649694d04f1fff216fa9d3b76a53971c3b5dee5463fc7f6e2"
+    },
+    {
+      "path": "references/user-drawings/user-building-sketch.jpg",
+      "bytes": 1713989,
+      "sha256": "042c4b915a0be4a8122016c865ee8fc918845fca69b75b00dc140f66a8c68a60"
+    },
+    {
+      "path": "references/user-drawings/user-section-sketch.jpg",
+      "bytes": 1480586,
+      "sha256": "49cd67c7214e042a536b10d3ab6a8d000b316c29d7a0acafa37620949972e2b1"
+    },
+    {
+      "path": "tools/calculate_airflow.py",
+      "bytes": 4329,
+      "sha256": "5fc0de7c4c1be737f5e3f4d16a07e2acb9eedc252996564d8379ffa988c13619"
+    },
+    {
+      "path": "tools/export_review.py",
+      "bytes": 2508,
+      "sha256": "11bf83a387ce63db005308d2c0b191f9ed0a7d61755593717a7a2dc2906e66a3"
+    },
+    {
+      "path": "tools/validate_package.py",
+      "bytes": 3155,
+      "sha256": "541e3093e0ff890e32340d19fc24df744ccda35013ca5caf46ae4186cac11e1d"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+"""Revise the saved concept while preserving the first iteration."""
+import os
+root=os.path.dirname(os.path.abspath(__file__))
+src=open(os.path.join(root,'build_concept.py'),encoding='utf-8').read()
+def replace(old,new):
+ global src
+ if old not in src:raise RuntimeError('Missing replacement: '+old[:80])
+ src=src.replace(old,new)
+replace("'initial-model'","'revision-2'")
+replace('XLR8-initial-concept','XLR8-straight-corner-v2')
+replace("('6 inch vent',.181,1.769,.1524)","('6 inch vent',.181,1.769,.1524),('Left hood 10 inch vent',-.65,1.759,.254)")
+replace("# Tapered leaning trunk", "box('Left existing hood | 10 inch vent | position provisional',(-.65,.17,1.76),(.42,.34,.42),vents,rim)\nbox('Left hood downward outlet',(-.65,.17,1.542),(.32,.25,.016),vents,dark)\n# Tapered leaning trunk")
+replace("# Face line jogs toward wall near tree. All dimensions editable in this script.\nfront=[(-1.5,.65),(-1.30,.65),(-1.10,.36),(-.58,.36),(-.35,.65),(1.5,.65)]", "# Straight soffit-edge front; square return beside tree, no tree recess.\nLEFT=-.95;RIGHT=1.5\nfront=[(LEFT,.65),(RIGHT,.65)]")
+replace("for x in [-1.5,1.5]:box('End return '","for x in [LEFT,RIGHT]:box('Square end cap '")
+replace("'Top closure following tree recess',[(-1.5,0),(1.5,0)]","'Top closure at soffit edge',[(LEFT,0),(RIGHT,0)]")
+replace("# 40 percent local gap gives alternating overlap even in shallow recessed bay.","# Three shelves attach outside / inside / outside, from top to bottom.")
+replace("if idx%2==0:\n  poly=[(-1.5,0),(1.5,0)]", "if idx%2==1:\n  poly=[(LEFT,0),(RIGHT,0)]")
+replace("'wall' if idx%2==0 else 'outer-face'", "'inside building wall' if idx%2==1 else 'outside enclosure wall'")
+replace("flow=[(.5,.12,1.73),(.5,.49,1.40),(.5,.52,.97),(.5,.12,.92),(.5,.12,.65),(.5,.52,.60),(.5,.52,.29),(.5,.52,.12)]", "flow=[(.5,.08,1.73),(.5,.12,1.35),(.5,.12,.97),(.5,.52,.92),(.5,.52,.65),(.5,.12,.60),(.5,.12,.29),(.5,.12,.12)]")
+replace("location=(.5,.52,.10)","location=(.5,.12,.10)")
+replace('XLR8 initial discussion model','XLR8 revision 2 — straight corner, outside/inside/outside shelves')
+replace('Circular vents: nominal 254 mm and 152.4 mm diameter supplied by user; centers visually located in scan. Hood simplified to envelope.', 'Circular vents: two nominal 254 mm vents and one 152.4 mm vent. Left 254 mm vent is concealed by an additional hood, per user correction. Left hood center and envelope are provisional because the tree obscures this region. Existing right hood retained. Hoods are separate editable objects; hide the left hood to inspect its vent.')
+replace('PROPOSAL: 3 m width (cropped scan coverage, not confirmed total required coverage), 650 mm typical projection, 360 mm projection at tree recess.', 'PROPOSAL: 2.45 m provisional width, constant 650 mm projection at soffit edge. Straight front wall and square end cap beside tree; no recess or curved wrap. Left end station and clearance require confirmation on site.')
+replace('Alternating wall/front/wall attachment. End gaps 40% of local depth = 260 mm typical, 144 mm at recess; THESE ARE NOT ONE-FOOT GAPS.', 'Attachment TOP TO BOTTOM: OUTSIDE enclosure wall / INSIDE building wall / OUTSIDE enclosure wall. End gaps 260 mm (10.2 inches); these remain smaller than a one-foot target.')
+replace('Existing hood included inside enclosure.', 'Both existing hood envelopes included inside enclosure.')
+exec(compile(src,os.path.join(root,'build_concept.py'),'exec'))

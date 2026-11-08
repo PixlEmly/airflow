@@ -1,0 +1,19 @@
+{
+  "design_flow_cfm": 9900,
+  "outlets": 3,
+  "flow_per_outlet_cfm": 3300,
+  "clear_internal_width_inches": 94.88189079630094,
+  "clear_internal_depth_inches": 19.714684467616046,
+  "baffle_projection_inches": 9.857342233808023,
+  "clear_tip_and_vertical_gap_inches": 9.857342233808023,
+  "baffle_total_thickness_inches": 3.1496062992125986,
+  "nominal_passage_area_sqft": 6.495022703957901,
+  "nominal_passage_velocity_fpm": 1524.2440944767125,
+  "baffle_centers_inches": [
+    39.588701537274936,
+    26.58175300425432,
+    13.574804471233698
+  ],
+  "fan_static_pressure": "unknown",
+  "status": "Concept only; pressure loss and maintained fan flow unverified"
+}

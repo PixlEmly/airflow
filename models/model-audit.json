@@ -1,0 +1,110 @@
+{
+  "blender_version": "5.1.1",
+  "units": "METRIC",
+  "option_visibility": [
+    {
+      "name": "OPTION 1 | base 30in | depth 25.6in",
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "OPTION 2 | base 36in | depth 25.6in",
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "OPTION 3 | base 24in | depth 22.6in",
+      "hidden_viewport": true,
+      "hidden_render": true
+    },
+    {
+      "name": "OPTION 4 | base 12in | depth 20.3in",
+      "hidden_viewport": false,
+      "hidden_render": false
+    },
+    {
+      "name": "OPTION 5 | base 12in | depth 18.3in",
+      "hidden_viewport": true,
+      "hidden_render": true
+    }
+  ],
+  "images": [
+    {
+      "name": "1252f22cf8386c9dcd68aa29e467c0de.jpg",
+      "packed": true,
+      "external_file_exists": false
+    },
+    {
+      "name": "bf2c867dba0097cbf0a30da9399f47c4.jpg",
+      "packed": true,
+      "external_file_exists": false
+    },
+    {
+      "name": "f723a9e9bcb00fe0e710a390039e13eb.jpg",
+      "packed": true,
+      "external_file_exists": false
+    },
+    {
+      "name": "out2_Material.jpg",
+      "packed": true,
+      "external_file_exists": false
+    }
+  ],
+  "glb_mesh_objects": [
+    "Option 4 | Outer panel 01 | removable for cutaway.002",
+    "Option 4 | Square end cap -0.002",
+    "Option 4 | Square end cap 1.002",
+    "Option 4 | Top closure at soffit edge.002",
+    "Baffle 1 | OUTER | upper 1in lining",
+    "Baffle 1 | OUTER | lower 1in lining",
+    "Baffle 1 | OUTER | tip 1in lining",
+    "Baffle 1 | OUTER | core 1.15in allowance",
+    "Baffle 2 | BUILDING | upper 1in lining",
+    "Baffle 2 | BUILDING | lower 1in lining",
+    "Baffle 2 | BUILDING | tip 1in lining",
+    "Baffle 2 | BUILDING | core 1.15in allowance",
+    "Baffle 3 | OUTER | upper 1in lining",
+    "Baffle 3 | OUTER | lower 1in lining",
+    "Baffle 3 | OUTER | tip 1in lining",
+    "Baffle 3 | OUTER | core 1.15in allowance",
+    "Lining | OUTER panel | hide with panel for cutaway",
+    "Lining | left end",
+    "Lining | right end",
+    "Lining | building wall | vent penetrations",
+    "Lining | ceiling | existing duct opening retained",
+    "Wall plane | fitted from scan",
+    "Soffit reference | approx 650 mm projection",
+    "Ground reference | local approximate datum",
+    "10 inch vent nominal opening",
+    "10 inch vent rim",
+    "6 inch vent nominal opening",
+    "6 inch vent rim",
+    "Left hood 10 inch vent nominal opening",
+    "Left hood 10 inch vent rim",
+    "Large existing hood | scan-derived envelope",
+    "Hood downward outlet",
+    "Left existing hood | 10 inch vent | position provisional",
+    "Left hood downward outlet",
+    "Tree | combined scan envelope | interpolated between measured slices",
+    "INFERRED base below 250 mm - gray",
+    "LD6 SILENCER | body diameter 10.25in | body length 23.625in",
+    "Silencer lower 6in spigot",
+    "Silencer casing band",
+    "Silencer casing band.001",
+    "Silencer casing band.002",
+    "Silencer casing band.003",
+    "Upper 6in connector to 120 degree rain bend",
+    "LOWER ELBOW | short-radius 90deg | 6in nominal CLR",
+    "TOP ELBOW | short-radius 90deg | aimed inward over roof",
+    "Silencer roof collar | relocated for short-radius elbow",
+    "ROOF | 10ft run | averaged scan slope approx -0.23:12",
+    "Square curb side 1",
+    "Square curb side 2",
+    "Square curb side 3",
+    "Square curb side 4",
+    "Square curb top | opening around silencer",
+    "Curb flashing apron | schematic"
+  ],
+  "object_count": 99,
+  "lining_and_baffle_object_count": 17
+}

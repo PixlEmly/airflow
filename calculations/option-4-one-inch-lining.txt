@@ -1,0 +1,12 @@
+OPTION 4: ONE-INCH INTERIOR LINING ALLOWANCE
+Design flow 9,900 CFM (three at 3,300). Six-inch roof duct excluded.
+One inch added inward on building wall, outer face, ends and ceiling; existing vent/duct openings retained. Baffles have 1in on upper/lower faces and free tips. Existing 80mm total baffle envelope retained, leaving 29.2mm (1.15in) structural allowance; actual construction remains to be selected. No extra lining is added on top of the former lining-inclusive 80mm thickness.
+Finished clear width 92.88in; depth 17.71in.
+Finished half-depth projection and tip gap 8.86in; vertical gaps matched to 8.86in.
+Lowest finished underside remains 12in above ground. Top/middle/bottom center elevations: 37.59, 25.58, 13.57in.
+Nominal controlling full-width area 5.713ft2, versus 6.495ft2 previously: 12.0% reduction.
+Mean velocity at 9,900 CFM 1733fpm, versus 1524fpm: 13.7% increase.
+Velocity-squared factor 1.292: about 29% higher dynamic pressure at equal flow. This is NOT a calculated total system pressure loss or predicted flow reduction. Loss coefficients, lining surface, turns, hood inlets, ground/tree discharge and fan curve are unverified.
+To retain the former nominal passage area at the new finished width would require 10.07in clear gaps. With symmetric half-depth baffles and one inch lining on both walls, raw internal depth would need 22.14in, an increase of 2.42in over current geometry. That conflicts with the tree-driven depth constraint unless the enclosure location/width changes.
+FRK identifies a facing, not a verified internal acoustic liner. Exact product, airstream-facing orientation, temperature and moisture suitability require confirmation. No absorption rating or acoustic improvement assigned. Manufacturer reference: https://www.jm.com/content/dam/jm/global/en/insulation-systems/products/assets/data-sheet/jm-hvac-superduct-rc-ds-en.pdf
+Other options remain unchanged and hidden. Hide both Option 4 Outer panel and Lining OUTER panel for cutaway. Option 4 stays default.
