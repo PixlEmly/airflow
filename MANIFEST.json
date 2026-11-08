@@ -8,13 +8,13 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 129,
-      "sha256": "a473eb17f32e936427de2d7f2924dabd8044c27f398090074dc8fd8e1fe54aee"
+      "bytes": 165,
+      "sha256": "e7cf0234ee5764827c20c567301dcd3f31843d9d0c53d1dcd86a378a7907bffa"
     },
     {
       "path": "AGENTS.md",
-      "bytes": 3463,
-      "sha256": "6f1cb51e828c22d15cf44efe37bbf1ad9e652592d8171bdb454cd97a271e85fa"
+      "bytes": 3640,
+      "sha256": "5baf000223f9e761c29eefcd637d078ee260166a148cd4e5f2832a707fe12ccc"
     },
     {
       "path": "calculations/airflow-screening.json",
@@ -67,9 +67,14 @@
       "sha256": "98c4bdded734f825eae8041a9fb4ea49fe43b4a49f65eea53fc71e47a534b4aa"
     },
     {
+      "path": "drawings/option-4-dimensioned-eighth-inch.pdf",
+      "bytes": 11026,
+      "sha256": "8ecf9936a799031184fc56b0bca9b4e376b66d52597ef0a618afb1df1f0e58ef"
+    },
+    {
       "path": "drawings/option-4-dimensioned.svg",
-      "bytes": 5661,
-      "sha256": "a1409734115d56b80acdbfd35c5404cdaf83f665f3023fccbfc0ff2a26426d19"
+      "bytes": 5715,
+      "sha256": "91a504c0a21fe1996c6ec0e62f1c80bae33e7ac80617f6c6f6a58861d5a57e0d"
     },
     {
       "path": "drawings/option-4-lined-baffles-cutaway.png",
@@ -312,9 +317,14 @@
       "sha256": "f57169528db155f68d2fc07c04b77261a23e35d7155dec71373a3d18834f0a14"
     },
     {
+      "path": "option-4-dimensioned.pdf",
+      "bytes": 11026,
+      "sha256": "8ecf9936a799031184fc56b0bca9b4e376b66d52597ef0a618afb1df1f0e58ef"
+    },
+    {
       "path": "README.md",
-      "bytes": 3279,
-      "sha256": "3b125f6f8d6ab2f92caa3d2ef60b35b92b74a481d947e772061d536d28e73978"
+      "bytes": 3433,
+      "sha256": "9afeacf7b243c2a6c763a7441bdd11455f335e030ffcfe8b9b4408bf158e9e16"
     },
     {
       "path": "references/measurements/historical-v4-tree-measurements.json",
@@ -473,8 +483,8 @@
     },
     {
       "path": "tools/validate_package.py",
-      "bytes": 3155,
-      "sha256": "541e3093e0ff890e32340d19fc24df744ccda35013ca5caf46ae4186cac11e1d"
+      "bytes": 3232,
+      "sha256": "6396c9657515595555fec03773c07a98ee2e1c8b376d628e6e21595636207c8a"
     }
   ]
 }

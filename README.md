@@ -9,7 +9,7 @@ This project investigates an enclosed, bottom-discharge sound baffle box along t
 1. Read [design brief](docs/DESIGN-BRIEF.md) and [airflow/acoustic assessment](docs/AIRFLOW-AND-ACOUSTICS.md).
 2. Open [current Blender model](models/XLR8-all-options-toggle.blend), authored using Blender 5.1.1. Option 4 is visible; options 1, 2, 3 and 5 remain hidden. This is the authoritative editable model.
 3. For a portable mesh preview, use [Option 4 GLB](models/option-4-lined-review.glb). It contains the visible concept only; option toggles and source scan collections require Blender.
-4. See the [dimensioned side, front and isometric drawing](drawings/option-4-dimensioned.svg), [lined cutaway](drawings/option-4-lined-baffles-cutaway.png), and [roof surround detail](drawings/roof-curb-detail.png).
+4. Use the [dimensioned Option 4 PDF](option-4-dimensioned.pdf) for review and printing. It has side, front and isometric views with dimensions rounded to the nearest ⅛ inch. The [SVG source](drawings/option-4-dimensioned.svg), [lined cutaway](drawings/option-4-lined-baffles-cutaway.png), and [roof surround detail](drawings/roof-curb-detail.png) are also available.
 5. Read [agent handoff and conversation history](docs/CHAT-HANDOFF.md), [review plan](docs/REVIEW-PLAN.md), and root [AGENTS.md](AGENTS.md) before changing the model.
 
 ## Contents

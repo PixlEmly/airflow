@@ -3,7 +3,8 @@ from pathlib import Path
 import hashlib,json,sys,struct,re
 ROOT=Path(__file__).resolve().parents[1]
 def files():
- return sorted(p for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.relative_to(ROOT).parts and '__pycache__' not in p.parts and p.suffix not in ['.blend1','.blend2'] and p.name!='MANIFEST.json')
+ local_draft = ROOT/'drawings/option-4-dimensioned.pdf'
+ return sorted(p for p in ROOT.rglob('*') if p.is_file() and p != local_draft and '.git' not in p.relative_to(ROOT).parts and '__pycache__' not in p.parts and p.suffix not in ['.blend1','.blend2'] and p.name!='MANIFEST.json')
 def digest(p):
  h=hashlib.sha256()
  with p.open('rb') as f:

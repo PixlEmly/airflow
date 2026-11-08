@@ -1,37 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="850" viewBox="0 0 1500 850">
 <style>text{font:16px Arial;fill:#16323e}.title{font:bold 31px Arial}.head{font:bold 20px Arial}.small{font:14px Arial}.shell{fill:#d3e2e8;stroke:#325364}.liner{fill:#f3d791;stroke:#8b6b34}.core{fill:#8499a3}.ply{fill:#a87a50}.line{fill:none;stroke:#325364}.dim{fill:none;stroke:#27658b;marker-start:url(#a);marker-end:url(#a)}.hidden{fill:none;stroke:#476574;stroke-dasharray:5 4}</style>
 <defs><marker id="a" markerWidth="7" markerHeight="7" refX="3" refY="3" orient="auto-start-reverse"><path d="M0 0L6 3L0 6z" fill="#27658b"/></marker></defs>
-<rect width="1500" height="850" fill="white"/><text x="35" y="52" class="title">XLR8  /  OPTION 4 ENCLOSURE</text><text x="35" y="81">A-01  •  Review drawing  •  Dimensions in inches  •  Finished liner faces govern</text>
+<rect width="1500" height="850" fill="white"/><text x="35" y="52" class="title">XLR8  /  OPTION 4 ENCLOSURE</text><text x="35" y="81">A-01  •  Review drawing  •  Dimensions in inches, nearest 1/8  •  Finished liner faces govern</text>
 <path d="M35 102H1465" class="line"/>
 <text x="35" y="138" class="head">A   SIDE SECTION</text><text x="445" y="138" class="head">B   FRONT ELEVATION</text><text x="1030" y="138" class="head">C   ISOMETRIC CUTAWAY</text>
 <rect x="130" y="180" width="12" height="369" class="shell"/><rect x="142" y="180" width="5" height="369" class="liner"/>
 <rect x="235.55" y="180" width="5" height="369" class="liner"/><rect x="240.55" y="180" width="6.25" height="369" class="shell"/>
 <rect x="142" y="180" width="104.8" height="9" class="shell"/><rect x="147" y="189" width="88.55" height="5" class="liner"/>
-<rect x="191.28" y="413.15" width="44.28" height="15.75" class="liner"/><rect x="196.28" y="418.15" width="39.28" height="5.75" class="core"/><text x="270" y="426.15" class="small">B1 CL  37.59</text>
-<rect x="147" y="473.2" width="44.28" height="15.75" class="liner"/><rect x="147" y="478.2" width="39.28" height="5.75" class="core"/><text x="270" y="486.2" class="small">B2 CL  25.58</text>
-<rect x="191.28" y="533.25" width="44.28" height="15.75" class="liner"/><rect x="196.28" y="538.25" width="39.28" height="5.75" class="core"/><text x="270" y="546.25" class="small">B3 CL  13.57</text>
+<rect x="191.28" y="413.15" width="44.28" height="15.75" class="liner"/><rect x="196.28" y="418.15" width="39.28" height="5.75" class="core"/><text x="270" y="426.15" class="small">B1 CL  37-5/8</text>
+<rect x="147" y="473.2" width="44.28" height="15.75" class="liner"/><rect x="147" y="478.2" width="39.28" height="5.75" class="core"/><text x="270" y="486.2" class="small">B2 CL  25-5/8</text>
+<rect x="191.28" y="533.25" width="44.28" height="15.75" class="liner"/><rect x="196.28" y="538.25" width="39.28" height="5.75" class="core"/><text x="270" y="546.25" class="small">B3 CL  13-5/8</text>
 <path d="M147 379H235.55M147 401H191.28M191.28 519H235.55" class="dim"/>
-<text x="151" y="369" class="small">17.71 clear ID</text><text x="150" y="393" class="small">8.86 tip</text><text x="191" y="511" class="small">8.86 tip</text>
-<path d="M255 429V473M255 489V533" class="dim"/><text x="270" y="454" class="small">8.86 clear</text><text x="270" y="516" class="small">8.86 clear</text>
-<path d="M100 609H370M113 549V609" class="line"/><text x="42" y="583">12.00</text><text x="129" y="633" class="small">BUILDING</text><text x="233" y="633" class="small">OUTSIDE</text>
+<text x="151" y="369" class="small">17-3/4 clear ID</text><text x="150" y="393" class="small">8-7/8 tip</text><text x="191" y="511" class="small">8-7/8 tip</text>
+<path d="M255 429V473M255 489V533" class="dim"/><text x="270" y="454" class="small">8-7/8 clear</text><text x="270" y="516" class="small">8-7/8 clear</text>
+<path d="M100 609H370M113 549V609" class="line"/><text x="42" y="583">12</text><text x="129" y="633" class="small">BUILDING</text><text x="233" y="633" class="small">OUTSIDE</text>
 <rect x="455" y="180" width="482.3" height="369" class="shell"/>
-<path d="M455 175V155M937.3 175V155" class="line"/><path d="M455 162H937.3" class="dim"/><rect x="582" y="149" width="228" height="22" fill="white"/><text x="595" y="166" class="small">96.46 nominal panel span</text>
+<path d="M455 175V155M937.3 175V155" class="line"/><path d="M455 162H937.3" class="dim"/><rect x="582" y="149" width="228" height="22" fill="white"/><text x="595" y="166" class="small">96-1/2 nominal panel span</text>
 <rect x="464" y="413.15" width="464.4" height="15.75" class="hidden"/>
 <rect x="464" y="473.2" width="464.4" height="15.75" class="hidden"/>
 <rect x="464" y="533.25" width="464.4" height="15.75" class="hidden"/>
-<path d="M464 507H928.4M955 180V549M955 549V609" class="dim"/><text x="608" y="499" class="small">92.88 finished clear width</text><text x="962" y="366" class="small">73.83</text><text x="962" y="582" class="small">12.00</text>
+<path d="M464 507H928.4M955 180V549M955 549V609" class="dim"/><text x="608" y="499" class="small">92-7/8 finished clear width</text><text x="962" y="366" class="small">73-7/8</text><text x="962" y="582" class="small">12</text>
 <path d="M438 609H1000" class="line"/><text x="455" y="633" class="small">Tree end at left. Dashed outlines show concealed baffles.</text>
 <polygon points="1038,491.6 1381.656,614.2016 1381.656,285.65809999999993 1038,163.05649999999997" class="shell"/><polygon points="1381.656,614.2016 1447.183,590.8244 1447.183,262.2808999999999 1381.656,285.65809999999993" class="shell"/><polygon points="1070.7635,465.91615 1414.4195,588.51775 1447.183,576.8291499999999 1103.527,454.22754999999995" class="liner"/><polygon points="1103.527,454.22754999999995 1447.183,576.8291499999999 1447.183,590.84665 1103.527,468.24505" class="ply"/><polygon points="1038,424.16025 1381.656,546.76185 1414.4195,535.07325 1070.7635,412.47165000000007" class="liner"/><polygon points="1070.7635,412.47165000000007 1414.4195,535.07325 1414.4195,549.0907500000001 1070.7635,426.48915000000005" class="ply"/><polygon points="1070.7635,359.02715 1414.4195,481.62874999999997 1447.183,469.9401499999999 1103.527,347.33854999999994" class="liner"/><polygon points="1103.527,347.33854999999994 1447.183,469.9401499999999 1447.183,483.95764999999994 1103.527,361.35605" class="ply"/>
 <text x="1030" y="633" class="small">Front panel omitted. Baffles alternate outer / building / outer.</text>
 <rect x="35" y="655" width="1430" height="158" fill="#f1f6f8" stroke="#c5d6de"/>
 <text x="53" y="684" class="head">D   MATERIALS AND BUILDUP</text>
-<text x="53" y="712">Baffles   92.88 finished span × 8.86 finished projection × 3.15 thick</text>
-<text x="53" y="737">1.00 FRK each face + 0.50 plywood + 0.65 remaining core allowance</text>
-<text x="53" y="762">1.00 FRK on free tips, inside the finished projection.</text>
+<text x="53" y="712">Baffles   92-7/8 finished span × 8-7/8 finished projection × 3-1/8 thick</text>
+<text x="53" y="737">1 FRK each face + 1/2 plywood + 5/8 remaining core allowance</text>
+<text x="53" y="762">1 FRK on free tips, inside the finished projection.</text>
 <text x="53" y="787">Baffle framing and attachment details are pending.</text>
 <text x="756" y="712">Walls   ½″ plywood over framing with 1″ interior FRK</text>
-<text x="756" y="737">Bare model envelopes   1.25 front / 1.57 ends, including framing allowance</text>
-<text x="756" y="762">Hold 92.88 × 17.71 finished ID. Place wall framing outward.</text>
+<text x="756" y="737">Bare model envelopes   1-1/4 front / 1-5/8 ends, including framing allowance</text>
+<text x="756" y="762">Hold 92-7/8 × 17-3/4 finished ID. Place wall framing outward.</text>
 <text x="756" y="787">Verify tree separation, existing wall thickness and framing sizes on site.</text>
 <text x="35" y="838" class="small">Design review  •  08 Nov 2026  •  Dimensions refer to the concept model. Field verify before fabrication.</text>
 </svg>

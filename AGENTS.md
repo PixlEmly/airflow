@@ -4,6 +4,8 @@ Read README.md, docs/CHAT-HANDOFF.md, docs/DESIGN-BRIEF.md and docs/AIRFLOW-AND-
 
 ## Source of truth and scope
 
+- Use the root `option-4-dimensioned.pdf` for review and printing. Its labels round to the nearest ⅛ inch. Use the Blender geometry and calculation files for exact values.
+
 - `models/XLR8-all-options-toggle.blend` is authoritative. Work from this scene, not a historical generator.
 - Preserve options 1–5 in the SAME scene; Option 4 is the default visible option. Options 6–8 were explicitly removed by the user and must not be silently reinstated. Historical illustrations remain clearly labeled.
 - Shared building, both-scan tree envelope, vents, roof and six-inch silencer assembly stay in SHARED collections. Option-specific baffles and lining stay under Option 4.
