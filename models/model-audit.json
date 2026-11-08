@@ -93,7 +93,7 @@
     "Silencer casing band.001",
     "Silencer casing band.002",
     "Silencer casing band.003",
-    "Upper 6in connector to 120 degree rain bend",
+    "Upper 6in connector to inward short-radius 90",
     "LOWER ELBOW | short-radius 90deg | 6in nominal CLR",
     "TOP ELBOW | short-radius 90deg | aimed inward over roof",
     "Silencer roof collar | relocated for short-radius elbow",
@@ -102,8 +102,8 @@
     "Square curb side 2",
     "Square curb side 3",
     "Square curb side 4",
-    "Square curb top | opening around silencer",
-    "Curb flashing apron | schematic"
+    "Curb flashing apron | schematic",
+    "Square enclosure lid | full casing covered | reduced neck opening"
   ],
   "object_count": 99,
   "lining_and_baffle_object_count": 17

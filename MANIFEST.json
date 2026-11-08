@@ -43,8 +43,8 @@
     },
     {
       "path": "docs/DESIGN-BRIEF.md",
-      "bytes": 4895,
-      "sha256": "965af5368a0bec8d385e6a69425b3116826b52948b17cafd42562a0ff8dd8118"
+      "bytes": 5247,
+      "sha256": "a05840100fb075b5a24818d5126fa5c0fe7bda6adc9401cb7770a35717045174"
     },
     {
       "path": "docs/PROVENANCE.md",
@@ -58,18 +58,23 @@
     },
     {
       "path": "drawings/current-exterior.png",
-      "bytes": 2327976,
-      "sha256": "068beb52747c2010895aaa19ab146509dbe0c1d1dbda07cc3e003143393bb29c"
+      "bytes": 2325693,
+      "sha256": "1d7690b22d33ec6653f84e3674ac942e8d11c14990b0a8df4f9d75a501d7aff1"
     },
     {
       "path": "drawings/option-4-default.png",
-      "bytes": 2327979,
-      "sha256": "588150756f16b13c7372a6e3c27b929f4e38177473257d428aa46ef309a3f0c2"
+      "bytes": 2325693,
+      "sha256": "98c4bdded734f825eae8041a9fb4ea49fe43b4a49f65eea53fc71e47a534b4aa"
+    },
+    {
+      "path": "drawings/option-4-dimensioned.svg",
+      "bytes": 5661,
+      "sha256": "a1409734115d56b80acdbfd35c5404cdaf83f665f3023fccbfc0ff2a26426d19"
     },
     {
       "path": "drawings/option-4-lined-baffles-cutaway.png",
-      "bytes": 2587915,
-      "sha256": "a2f6fd857a1f883232af03fa1b709df27304ffbb57252986bd5229141177bc5e"
+      "bytes": 2585293,
+      "sha256": "9dc13c96a47e7efdc969174910c05d43e4776dce9e74e17d388a4d4eb0b743e9"
     },
     {
       "path": "drawings/option-4-section.svg",
@@ -78,8 +83,8 @@
     },
     {
       "path": "drawings/roof-curb-detail.png",
-      "bytes": 2518489,
-      "sha256": "821cdcc26965d52dd1eb6f844495f0ea6a96b6657cbc42ce9f4971da2c15909e"
+      "bytes": 2483000,
+      "sha256": "e78fb3da5d02527af0d378dfcbd6bb949657789311c3cae7d7e29827889817dc"
     },
     {
       "path": "history/option-1.png",
@@ -288,23 +293,28 @@
     },
     {
       "path": "models/model-audit.json",
-      "bytes": 3690,
-      "sha256": "de8d13747ed4c2bd7022280eba8a10e0020159113af4add9911a3a0483cc1577"
+      "bytes": 3716,
+      "sha256": "97fa5d68326283e777b347329f6a2120455f952807ea4d1e4e0de41163e1977f"
     },
     {
       "path": "models/option-4-lined-review.glb",
-      "bytes": 1413780,
-      "sha256": "0dc16891254002554c4e447209c6d202ffee74038e68f94ce25da2aaa3f670ee"
+      "bytes": 1413852,
+      "sha256": "3e8d139b9804c3fb125a806fb581498b4c2e20d824969f0eb9653f78ff077f57"
+    },
+    {
+      "path": "models/roof-chase-check.json",
+      "bytes": 266,
+      "sha256": "38dcac84cb83df0e4d8c38c0401a1c1cc482174e0f3d0cd0d40b57e9fa6edf2b"
     },
     {
       "path": "models/XLR8-all-options-toggle.blend",
-      "bytes": 15960024,
-      "sha256": "9d066bb1d7e8510a5ea37c266269e66d6354f072a9e01166184e39dac3b64b99"
+      "bytes": 15961786,
+      "sha256": "f57169528db155f68d2fc07c04b77261a23e35d7155dec71373a3d18834f0a14"
     },
     {
       "path": "README.md",
-      "bytes": 3339,
-      "sha256": "342528a9704a82bd38e13b69e276e5649758c228c0c3755051e263aae1a836b3"
+      "bytes": 3279,
+      "sha256": "3b125f6f8d6ab2f92caa3d2ef60b35b92b74a481d947e772061d536d28e73978"
     },
     {
       "path": "references/measurements/historical-v4-tree-measurements.json",
@@ -453,8 +463,13 @@
     },
     {
       "path": "tools/export_review.py",
-      "bytes": 2508,
-      "sha256": "11bf83a387ce63db005308d2c0b191f9ed0a7d61755593717a7a2dc2906e66a3"
+      "bytes": 3346,
+      "sha256": "c471c95331e8289edc00621548eb3a3b1aa2a7eb5790ff61ac46659caaa9e606"
+    },
+    {
+      "path": "tools/raise_roof_chase.py",
+      "bytes": 3180,
+      "sha256": "1cca01a7a5286a24c4a63b23f44f14834f1d7f73eb3200a03e6b06f0e4dd90a2"
     },
     {
       "path": "tools/validate_package.py",

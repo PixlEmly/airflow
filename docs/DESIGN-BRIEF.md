@@ -31,6 +31,8 @@ Model uses metres. X runs along the wall, Y outward from the building, Z upward 
 
 Three baffles: OUTER / BUILDING / OUTER top to bottom. Lowest finished underside is at the base. Free edges also have 1in lining; bare cores are correspondingly shorter. One inch lining on both end walls, building wall, outer wall and ceiling reduces the available interior. Vent and duct openings are retained. No bottom full-width closure. Half-depth finished tips meet at one depth coordinate with no overlap; attenuation is not established. Core attachment/support details are not designed.
 
+Construction intent uses ½-inch plywood over framing with 1-inch interior FRK. Preserve finished air passage dimensions and place wall framing outward where measured tree clearance allows. The baffle drawing allocates ½ inch to plywood and reserves the remaining 0.65 inch of the existing core envelope. Framing sizes and attachments remain open.
+
 ## Shared vent and roof assembly
 
 Open 10in nominal center: X=+0.204m, Z=1.759m. Separate 6in center: X=-0.181m, Z=1.769m. Left hood 10in center: X=+0.65m, Z=1.759m. Large hood envelope roughly X=-1.39..-0.75m, Y=0..0.38m, Z=1.20..1.84m; its outlet marker bottom is 1.184m. These are reference approximations, not fabrication coordinates.

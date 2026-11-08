@@ -18,6 +18,14 @@ for im in bpy.data.images:
 assert all(i['packed'] or i['external_file_exists'] for i in images),'Missing image resource'
 cam=scene.camera;cam.location=(4,7,4.5);cam.rotation_euler=(Vector((0,-.45,1.65))-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.ortho_scale=6.2
 scene.render.filepath=str(ROOT/'drawings/current-exterior.png');bpy.ops.render.render(write_still=True)
+scene.render.filepath=str(ROOT/'drawings/option-4-default.png');bpy.ops.render.render(write_still=True)
+cam.location=(-2,4,4.2);cam.rotation_euler=(Vector((-.181,.1874,2.53))-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.ortho_scale=1.35
+scene.render.filepath=str(ROOT/'drawings/roof-curb-detail.png');bpy.ops.render.render(write_still=True)
+front.hide_render=lining.hide_render=True
+cam.location=(-3.8,7,3.6);cam.rotation_euler=(Vector((-.2,.2,1.24))-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.ortho_scale=4.5
+scene.render.filepath=str(ROOT/'drawings/option-4-lined-baffles-cutaway.png');bpy.ops.render.render(write_still=True)
+front.hide_render=lining.hide_render=False
+cam.location=(4,7,4.5);cam.rotation_euler=(Vector((0,-.45,1.65))-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.ortho_scale=6.2
 bpy.ops.object.select_all(action='DESELECT')
 selected=[]
 for o in scene.objects:
