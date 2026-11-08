@@ -8,6 +8,19 @@ Current lined finished width 92.88in, half-depth opening 8.86in; A=W*g/144=5.713
 
 At standard air density, velocity pressure Pv=(V/4005)^2 = 0.187in water. An estimated fitting loss would be deltaP=K*Pv. K=1,3,5 would give 0.19,0.56,0.94in water ONLY AS SENSITIVITY EXAMPLES. These are not validated coefficients, not a claimed plausible range, not total system pressure predictions and not fan backpressure limits. Losses require coefficients referenced to appropriate local velocities plus friction and system effects. Ambient density and actual exhaust temperature affect pressure. At similar flow pattern, halving Q quarters pressure loss. Actual delivered Q is determined by each fan curve and connected system.
 
+## Bottom opening versus vent area
+
+| Opening | Geometric area |
+|---|---:|
+| Two nominal 10-inch round vents | 1.09 ft² combined |
+| Large hood's modeled downward outlet (0.52 × 0.28 m) | 1.57 ft² |
+| Combined area served by the enclosure | 2.66 ft² |
+| Option 4 clear bottom opening | 5.71 ft² |
+
+The lowest baffle sits flush with the base and occupies half of the 11.43 ft² lined footprint. The remaining slot is 92.88 × 8.86 inches, or about 2.15 times the combined area of the three vents it serves. Including the separate 6-inch roof duct adds 0.20 ft², bringing the all-vent tally to 2.85 ft². That duct bypasses the enclosure.
+
+The hood outlet is a model estimate. This comparison uses geometric area. Pressure loss also depends on the baffle turns and the discharge path beneath the enclosure.
+
 ## Other options
 
 Only 4 is internally designed. To screen alternatives, retain 80mm lined baffles and assume all three lie below the lowest modeled hood outlet (Z=1.184m). An optimistic vertical gap bound is (hoodZ-base-3*thickness)/2, leaving ZERO hood-approach clearance and bottom baffle flush with base. This is not an acceptable finished layout, but shows the available space: option1 3.58in; option2 0.58in; option3 6.58in. Option4 has enough vertical room for its 8.86in tip gaps. Option5 has about 7.89in tips and nominal 1,946fpm. Greater opening under the box can coexist with worse restriction within it.
