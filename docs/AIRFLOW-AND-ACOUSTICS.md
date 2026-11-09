@@ -21,6 +21,22 @@ The lowest baffle sits flush with the base and occupies half of the 11.43 ft² l
 
 The hood outlet is a model estimate. This comparison uses geometric area. Pressure loss also depends on the baffle turns and the discharge path beneath the enclosure.
 
+## Separate 6-inch duct extension
+
+Fan identified by the user as Kemper 92104131 (92 104 131). Confirm the branch it serves. The [exact-part reseller listing](https://weldingmart.com/products/kemper-exhaust-fan-115v-1250-cfm-1-5hp-92104131) identifies a 115 V, 60 Hz, 1.5 hp unit and gives conflicting airflow figures (1,140 CFM in the specifications and 1,250 CFM in the title). Request the exact 60 Hz pressure-flow curve from Kemper. Installed airflow and available pressure remain unverified. The enclosure's 9,900 CFM allowance applies separately.
+
+For a proposed 20-foot soffit run, using 6-inch ID, standard-density air, Darcy friction factor 0.02 and one additional elbow with illustrative K=0.5:
+
+| Branch airflow | Added straight-run loss | Added loss with one extra elbow |
+|---:|---:|---:|
+| 200 CFM | 0.052 in. water | 0.084 in. water |
+| 400 CFM | 0.207 in. water | 0.336 in. water |
+| 800 CFM | 0.828 in. water | 1.345 in. water |
+
+Count any additional corner and vertical run length. If an existing elbow is relocated, count the change in fitting loss. These estimates exclude silencer loss and describe added pressure at fixed flow. See [ASHRAE duct design](https://handbook.ashrae.org/Handbooks/F25/IP/F25_Ch21/F25_Ch21_ip.aspx).
+
+Measure branch CFM and static pressure at a flush wall tap just upstream of the extension, referenced to sheltered outdoor air. Repeat with a temporary extension at the same fan speed and load. Two static taps across the fan measure static pressure rise. Check pressure definitions and velocity pressure corrections before comparing with a published curve. For hot engine exhaust, follow the equipment manufacturer's pressure tap location, test load and allowable backpressure.
+
 ## Other options
 
 Only 4 is internally designed. To screen alternatives, retain 80mm lined baffles and assume all three lie below the lowest modeled hood outlet (Z=1.184m). An optimistic vertical gap bound is (hoodZ-base-3*thickness)/2, leaving ZERO hood-approach clearance and bottom baffle flush with base. This is not an acceptable finished layout, but shows the available space: option1 3.58in; option2 0.58in; option3 6.58in. Option4 has enough vertical room for its 8.86in tip gaps. Option5 has about 7.89in tips and nominal 1,946fpm. Greater opening under the box can coexist with worse restriction within it.
