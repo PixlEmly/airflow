@@ -31,7 +31,7 @@ Model uses metres. X runs along the wall, Y outward from the building, Z upward 
 
 Three baffles: OUTER / BUILDING / OUTER top to bottom. Lowest finished underside is at the base. Free edges also have 1in lining; bare cores are correspondingly shorter. One inch lining on both end walls, building wall, outer wall and ceiling reduces the available interior. Vent and duct openings are retained. No bottom full-width closure. Half-depth finished tips meet at one depth coordinate with no overlap; attenuation is not established. Core attachment/support details are not designed.
 
-Construction intent uses ½-inch plywood over framing with 1-inch interior FRK. Preserve finished air passage dimensions and place wall framing outward where measured tree clearance allows. The baffle drawing allocates ½ inch to plywood and reserves the remaining 0.65 inch of the existing core envelope. Framing sizes and attachments remain open.
+Construction intent uses ½-inch plywood over framing with 1-inch Owens Corning Type 703 Fiberglas with FRK facing. Preserve finished air passage dimensions and place wall framing outward where measured tree clearance allows. The baffle drawing allocates ½ inch to plywood and reserves the remaining 0.65 inch of the existing core envelope. Framing sizes, liner mounting and attachments remain open.
 
 ## Shared vent and roof assembly
 

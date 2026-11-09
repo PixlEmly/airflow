@@ -2,6 +2,10 @@
 
 This is a curated handoff from the available conversation and local artifacts, not a verbatim transcript. It preserves decisions, corrections, rationale and pending work. Historical output may conflict with later decisions; current README and design brief take precedence.
 
+## Current reference report
+
+Use the root [Option 4 acoustic and construction report](../XLR8-option-4-acoustic-construction-review.pdf) for current acoustic estimates, framing and plywood details, FRK cuts, and material quantities. Site readings are reported peaks around 244 Hz. The octave-band estimates are a screening calculation and the LD6 figures are catalog ratings for a separate path. The older dimensioned PDF remains a supplemental drawing.
+
 ## Evolution
 
 1. User sought easier tools than SolidWorks/Illustrator for 3D discussion of a wall-mounted sound-deflection box. SketchUp Make 2017 was explored initially; later mesh/reference work and editable option scenes were produced in Blender. SketchUp import is not a final requirement.

@@ -13,8 +13,8 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 3640,
-      "sha256": "5baf000223f9e761c29eefcd637d078ee260166a148cd4e5f2832a707fe12ccc"
+      "bytes": 3936,
+      "sha256": "073865348bc0a8a2d966eb16e195e640cb235900532ed75317aa1934774385c7"
     },
     {
       "path": "calculations/airflow-screening.json",
@@ -33,18 +33,18 @@
     },
     {
       "path": "docs/AIRFLOW-AND-ACOUSTICS.md",
-      "bytes": 6958,
-      "sha256": "7212f65034b1b6023f7ae3718daefe938c84f89e5957ba20b8b064eb0b7cf126"
+      "bytes": 7708,
+      "sha256": "acb81e773f37c50faf84a7b75d93f0d9560609244068601623c6d86c005a6a29"
     },
     {
       "path": "docs/CHAT-HANDOFF.md",
-      "bytes": 6153,
-      "sha256": "0d453116f49ebdf018fd2ee5bfa943f7d12ca93deda9e230b9794d38a304b214"
+      "bytes": 6612,
+      "sha256": "c60fb2c849945899792fc7b914d60b86439750307aa33c537eced2eff8c0d7f6"
     },
     {
       "path": "docs/DESIGN-BRIEF.md",
-      "bytes": 5247,
-      "sha256": "a05840100fb075b5a24818d5126fa5c0fe7bda6adc9401cb7770a35717045174"
+      "bytes": 5299,
+      "sha256": "9d2556bee838451ef167c12ab2f4066468d031828d3e64efc3e9fd54ed98b686"
     },
     {
       "path": "docs/PROVENANCE.md",
@@ -55,6 +55,11 @@
       "path": "docs/REVIEW-PLAN.md",
       "bytes": 2097,
       "sha256": "d320084daefc0bfa1f70f6e399d8240ac9f34c973cceb2d63b24adde296a4837"
+    },
+    {
+      "path": "docs/ROTAX-NOISE-BASELINE.md",
+      "bytes": 2322,
+      "sha256": "a3979c9601db0dc15113dd85efdf8c94c6ba27a95fe28bc2c9eab3496ffd13c0"
     },
     {
       "path": "drawings/current-exterior.png",
@@ -323,8 +328,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3433,
-      "sha256": "9afeacf7b243c2a6c763a7441bdd11455f335e030ffcfe8b9b4408bf158e9e16"
+      "bytes": 3595,
+      "sha256": "c733d533475b297c9481dfeba8d2e2175d14dde852cd1aa39c905a1e5e5adc64"
     },
     {
       "path": "references/measurements/historical-v4-tree-measurements.json",
@@ -485,6 +490,11 @@
       "path": "tools/validate_package.py",
       "bytes": 3232,
       "sha256": "6396c9657515595555fec03773c07a98ee2e1c8b376d628e6e21595636207c8a"
+    },
+    {
+      "path": "XLR8-option-4-acoustic-construction-review.pdf",
+      "bytes": 3947202,
+      "sha256": "b815925491fa3dce16d92fb217770bf56cd18c2ef59e67bc0c71512951fcbb40"
     }
   ]
 }

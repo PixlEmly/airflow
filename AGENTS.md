@@ -4,7 +4,8 @@ Read README.md, docs/CHAT-HANDOFF.md, docs/DESIGN-BRIEF.md and docs/AIRFLOW-AND-
 
 ## Source of truth and scope
 
-- Use the root `option-4-dimensioned.pdf` for review and printing. Its labels round to the nearest ⅛ inch. Use the Blender geometry and calculation files for exact values.
+- Use the root [Option 4 acoustic and construction report](XLR8-option-4-acoustic-construction-review.pdf) as the current reference for acoustic estimates, construction details, the FRK cut sheet, and the BOM. Treat its framing and quantities as planning allowances.
+- Use the root `option-4-dimensioned.pdf` as the supplemental dimension drawing. Both PDFs round drawing dimensions to the nearest ⅛ inch. Use Blender geometry and calculation files for exact values.
 
 - `models/XLR8-all-options-toggle.blend` is authoritative. Work from this scene, not a historical generator.
 - Preserve options 1–5 in the SAME scene; Option 4 is the default visible option. Options 6–8 were explicitly removed by the user and must not be silently reinstated. Historical illustrations remain clearly labeled.
